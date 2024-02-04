@@ -1,0 +1,16 @@
+[
+{
+  "modid": "itembind",
+  "name": "ItemBind",
+  "description": "A mod use for item bind.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Saltfish_Sheep"],
+  "credits": "Just a mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
